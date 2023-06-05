@@ -48,6 +48,10 @@ body{
     text-decoration: none;
     gap: 2rem;
     flex: auto;
+    
+}
+.nav-link{
+    color: black;
 }
 li{
 
@@ -63,4 +67,7 @@ a{
 }
 .logo{
     flex: 1;
+}
+.banter-container{
+    background-color: #EDD2B2;
 }
