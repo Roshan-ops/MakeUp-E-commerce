@@ -1,0 +1,66 @@
+.Small1{
+    background-color: black;
+ }
+
+.Change{
+        color: white;
+        display: flex;
+        justify-content: center;
+    }
+    
+ .Icon{
+    display: flex;
+    gap: 0.7rem;
+    font-size: 0.7rem;
+    font-weight: 5rem;
+ 
+ }  
+ .discount{
+    flex: 1;
+    font-size: 0.7rem;
+    font-weight: 5rem;
+ }
+.Hello{
+    display: flex;
+    font-size: 0.7rem;
+    font-weight: 5rem;
+    gap: 2rem;
+  
+
+}
+.Hello2{
+
+}
+.nav-container{
+
+
+}
+body{
+    margin:0;
+    padding: 0;
+}
+.nav-container{
+    display: flex; 
+}
+.Menubar{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    gap: 2rem;
+    flex: auto;
+}
+li{
+
+    list-style-type: none;  
+}
+a{
+    text-decoration: none;
+}
+.item{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+.logo{
+    flex: 1;
+}
